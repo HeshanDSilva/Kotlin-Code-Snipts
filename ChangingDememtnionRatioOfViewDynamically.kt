@@ -1,15 +1,3 @@
-package com.fg.lolc.feature.common.component
-
-import android.content.Context
-import android.util.AttributeSet
-import android.view.LayoutInflater
-import android.view.View
-import androidx.constraintlayout.widget.ConstraintLayout
-import androidx.constraintlayout.widget.ConstraintSet
-import com.fg.lolc.R
-import com.fg.lolc.feature.common.enums.LineCount
-import kotlinx.android.synthetic.main.component_multiple_vertical_text.view.*
-
 
 class MultipleVerticalTextComponent @JvmOverloads constructor(
     context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0
